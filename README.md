@@ -1,0 +1,2 @@
+# PythonQuantTrading
+問ChatGPT也不會的Python量化交易聖經：從分析到真實交易一本全會
