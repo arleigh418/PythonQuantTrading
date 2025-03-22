@@ -5,5 +5,6 @@
 
 天瓏: https://www.tenlong.com.tw/products/9786267569566
 
+誠品: https://www.eslite.com/product/10012011762682851416001
 
 code & issue : https://github.com/ZJHuang915/PythonQuantTrading
